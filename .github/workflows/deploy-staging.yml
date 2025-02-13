@@ -1,6 +1,6 @@
 name: Deploy to staging
 
-on:
+on: 
   pull_request:
     types: [labeled]
 
